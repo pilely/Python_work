@@ -1,0 +1,10 @@
+print(3 + 5)
+print("\n")
+print(2 * 4)
+print("\n")
+print(2 ** 3)
+print("\n")
+print(int(16 / 2))  #控制小数位数
+print("\n")
+print(10 - 2)
+print("\n")

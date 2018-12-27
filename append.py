@@ -1,0 +1,4 @@
+# coding=gbk
+bicycles = ['trek', 'redline', 'connondale']
+bicycles.append('honode')   #appendÔÚÄ©Î²Ìí¼ÓÔªËØ
+print(bicycles[-1])
